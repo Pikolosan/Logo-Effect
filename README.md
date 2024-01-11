@@ -19,7 +19,7 @@ Welcome to the repository showcasing a stunning 3D logo effect, drawing inspirat
    Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/3d-logo-effect.git
+   git clone https://github.com/your-username/Logo-Effect.git
    ```
 
 2. **Include the CSS and JS Files:**
